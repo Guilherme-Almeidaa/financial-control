@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj": {}
+    "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj": {}
   },
   "projects": {
-    "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj": {
+    "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
+        "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
         "projectName": "financial-control-plataform",
-        "projectPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
+        "projectPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
         "packagesPath": "C:\\Users\\almei\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\obj\\",
+        "outputPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\almei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj": {
-                "projectPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj"
+              "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj": {
+                "projectPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj": {
+    "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
+        "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
         "projectName": "financial-control-utils",
-        "projectPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
+        "projectPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
         "packagesPath": "C:\\Users\\almei\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\obj\\",
+        "outputPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\almei\\AppData\\Roaming\\NuGet\\NuGet.Config",

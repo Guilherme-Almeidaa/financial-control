@@ -2792,11 +2792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
+      "projectUniqueName": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
       "projectName": "financial-control-utils",
-      "projectPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
+      "projectPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\financial-control-utils.csproj",
       "packagesPath": "C:\\Users\\almei\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-utils\\obj\\",
+      "outputPath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\almei\\AppData\\Roaming\\NuGet\\NuGet.Config",

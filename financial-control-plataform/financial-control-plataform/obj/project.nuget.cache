@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h91EUnO0219qznu6/u66q8KQrmHG3s1GvcnkeirLGY+oGCZ8+0zitV66QoU1PxsOBHFFU11tRULK1ahlJn2vgg==",
+  "dgSpecHash": "WC8zy3P9p3A8JYU4jmrNsVnOYeyvK0ORvrTG3iBCRrhn0EjN46CTLv4uewN5kqZe0X4peKLfAUQPwvztGps3uQ==",
   "success": true,
-  "projectFilePath": "C:\\Projeto-Financeiro\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
+  "projectFilePath": "C:\\Projeto-Financeiro\\financial-control\\financial-control-plataform\\financial-control-plataform\\financial-control-plataform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\almei\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\almei\\.nuget\\packages\\efcore.namingconventions\\8.0.3\\efcore.namingconventions.8.0.3.nupkg.sha512",
