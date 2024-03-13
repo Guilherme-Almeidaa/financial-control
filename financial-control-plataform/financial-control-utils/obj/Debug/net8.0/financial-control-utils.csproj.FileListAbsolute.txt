@@ -1,0 +1,15 @@
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.AssemblyInfoInputs.cache
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.AssemblyInfo.cs
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.csproj.CoreCompileInputs.cache
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\bin\Debug\net8.0\financial-control-utils.deps.json
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\bin\Debug\net8.0\financial-control-utils.runtimeconfig.json
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\bin\Debug\net8.0\financial-control-utils.dll
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\bin\Debug\net8.0\financial-control-utils.pdb
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.csproj.AssemblyReference.cache
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.dll
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\refint\financial-control-utils.dll
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.pdb
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\financial-control-utils.genruntimeconfig.cache
+C:\Projeto-Financeiro\financial-control-plataform\financial-control-utils\obj\Debug\net8.0\ref\financial-control-utils.dll
